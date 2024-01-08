@@ -4,7 +4,7 @@
 ## Which LLMs?
 
 1) Open LLM Leaderboard by HuggingFace
-2) Chatbot Arena by LMSys
+2) Chatbot Arena by LMSYS
 
 ## Training LLMs
 
