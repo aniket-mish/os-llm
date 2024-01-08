@@ -1,4 +1,4 @@
 # Open Source LLMs
 
-Open LLM Leaderboard by HuggingFace
-Chatbot Arena by LMSys
+1. Open LLM Leaderboard by HuggingFace
+2. Chatbot Arena by LMSys
